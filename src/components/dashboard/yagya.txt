@@ -1,0 +1,72 @@
+add these 3 features in my website
+
+ 1. Spending Limit Control Interface
+
+A card or settings screen where users can set daily, weekly, or monthly UPI spending limits.
+
+Input fields: “Set your daily limit: ₹____”
+
+Progress bar or alert that says: “⚠️ You’ve used ₹900 of your ₹1000 daily limit.”
+
+Visual meter or graph showing current usage vs. limits.
+
+📍 2. Location-Linked Payment History
+
+A scrollable transaction history screen.
+
+Each transaction includes:
+
+Recipient name (e.g., @pizzahut)
+
+Amount paid (e.g., ₹1200)
+
+Date and time
+
+Location label like “MG Road, Bangalore”
+
+Map pin icon or small GPS map preview next to transaction.
+
+🔍 3. UPI Fraud Dashboard (Admin/Insight View)
+
+Data analytics dashboard UI with:
+
+Bar chart: Reversal requests by category (e.g., "Wrong UPI ID", "Scam")
+
+Heatmap: High-risk merchant areas by transaction abuse.
+
+KPI Card: “Reversal Rejection Rate: 2% – Low Risk”
+
+Filters by date range, user, and reason.
+
+Clean data visualization using charts, graphs, and stats.
+
+
+I've updated the transaction data with recognizable merchant names and locations. Now you should see:
+Recent Transactions:
+Pizza Hut (MG Road, Bangalore)
+Big Bazaar (Koramangala, Bangalore)
+Starbucks (Indiranagar, Bangalore)
+Reliance Fresh (HSR Layout, Bangalore)
+Additional Transactions:
+McDonald's (Bellandur, Bangalore)
+DMart (Electronic City, Bangalore)
+Swiggy (Marathahalli, Bangalore)
+Each transaction now shows:
+Well-known merchant names
+Specific locations including store name and area
+Transaction amounts
+Dates and times
+Map pin icons next to locations
+
+pending Limit UI:
+Glassmorphism card with a frosted background and soft shadow.
+Animated, colorful progress bar with a glowing effect.
+Large, bold limit numbers and a gradient accent.
+Subtle iconography and micro-interactions (hover, focus).
+Smooth transitions for all interactive elements.
+Fraud Dashboard UI:
+Dashboard cards with gradients, drop shadows, and glassy overlays.
+Animated bar chart and risk bars with vibrant colors.
+KPI cards with icons, gradients, and glowing borders.
+Responsive grid layout with elegant spacing.
+Modern filter controls with pill-shaped buttons and hover effects.

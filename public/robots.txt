@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+# Welcome, search engines and bots!
+
+# Google is fully allowed
+User-agent: Googlebot
+Allow: /
+
+# Bing can access everything too
+User-agent: Bingbot
+Allow: /
+
+# Social media bots are welcome
+User-agent: Twitterbot
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+
+# Default rule for all other bots — you're allowed
+User-agent: *
+Allow: /
+
+# Thanks for crawling responsibly!
+=======
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+>>>>>>> a81c19c (Use tech stack vite_react_shadcn_ts)
