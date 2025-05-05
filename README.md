@@ -5,6 +5,13 @@ Paytm Clone Frontend
 
 ---
 
+✨ Contributor Clarification
+Although this repository lists lovable-dev[bot] as a contributor, please note that all core development, design, and implementation work was done solely by me, Yagya Tripathi.
+
+The bot contributor appears due to automated GitHub actions or tools that may have triggered a commit (such as formatting, deployment, or dependency updates). These were part of the development process setup and did not involve any actual feature coding or logic contributions.
+
+This project reflects my full effort, creativity, and problem-solving, and I'm proud to present it as my individual submission for this hackathon.
+
 ## 📋 Table of Contents
 
 1. [Project Overview](#project-overview)  
